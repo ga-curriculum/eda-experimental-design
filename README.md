@@ -22,8 +22,8 @@ An introduction to the framework of experiments, hypothesis testing, sources of 
 
 | Topic | About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides/)| Explain the terminology and framework of designing an experiment and the basics of hypothesis testing |
-| [02 Hypothesis testing in action](./02-hypothesis-testing-in-action/) | See hypothesis testing in action with Python |
+| [Full Lesson Deck](https://github.com/ga-curriculum/eda-experimental-design/blob/main/01-slides/EDA-Experimental-Design.pdf){:target="_blank"}| Explain the terminology and framework of designing an experiment and the basics of hypothesis testing |
+| [02 Hypothesis testing in action](https://github.com/ga-curriculum/eda-experimental-design/tree/main/02-hypothesis-testing-in-action){:target="_blank"} | See hypothesis testing in action with Python |
 
 
 ## Prerequisites
